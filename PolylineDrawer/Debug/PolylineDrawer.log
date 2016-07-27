@@ -1,0 +1,9 @@
+﻿  main.cpp
+c:\users\amitayush thakur\documents\acads\projects\computergraphics\819_333_assignment2\polylinedrawer\main.cpp(197): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+c:\users\amitayush thakur\documents\acads\projects\computergraphics\819_333_assignment2\polylinedrawer\main.cpp(235): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+c:\users\amitayush thakur\documents\acads\projects\computergraphics\819_333_assignment2\polylinedrawer\main.cpp(236): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+c:\users\amitayush thakur\documents\acads\projects\computergraphics\819_333_assignment2\polylinedrawer\main.cpp(245): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+c:\users\amitayush thakur\documents\acads\projects\computergraphics\819_333_assignment2\polylinedrawer\main.cpp(246): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+c:\users\amitayush thakur\documents\acads\projects\computergraphics\819_333_assignment2\polylinedrawer\main.cpp(256): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+c:\users\amitayush thakur\documents\acads\projects\computergraphics\819_333_assignment2\polylinedrawer\main.cpp(257): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+  PolylineDrawer.vcxproj -> C:\Users\Amitayush Thakur\Documents\Acads\Projects\ComputerGraphics\819_333_Assignment2\Debug\PolylineDrawer.exe
